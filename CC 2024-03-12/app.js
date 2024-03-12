@@ -21,7 +21,7 @@
 //Pseudo Code:
 
 //Create a sum variable and set it to 0. 
-//Initiate a nest for loop that adds one to the sum if current array is greater than any element after it.
+//Initiate a nest for loop that adds one to the sum if current array element is greater than any element after it.
 //Return sum. 
 
 function countInversions(array) {
